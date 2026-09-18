@@ -33,7 +33,7 @@ O conjunto é composto por duas tabelas principais cruzadas pelo identificador d
 - **Linguagem:** Python 3
 - **Manipulação de Dados:** Pandas, NumPy
 - **Visualização:** Matplotlib, Seaborn
-- **Versionamento:** Git, Sourtree GitHub
+- **Versionamento:** Git, Sourcetree e GitHub
 
 ---
 
