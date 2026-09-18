@@ -1,0 +1,19 @@
+# --- PYTHON & JUPYTER ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# --- AMBIENTES VIRTUAIS ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- CONFIGURAÇÕES DO VS CODE & SISTEMA ---
+.vscode/
+.DS_Store
+Thumbs.db
+
+# --- SEGURANÇA (Senhas e Chaves de API) ---
+.env
