@@ -13,7 +13,7 @@ O objetivo deste estudo é analisar padrões comportamentais e sociodemográfico
 O projeto foi estruturado para responder a duas hipóteses centrais de crédito:
 
 1. **Renda vs. Inadimplência:** Clientes com maior renda anual apresentam menores taxas de inadimplência?
-2. **Estabilidade Pessoal vs. Risco:** O tipo de moradia ou o estado civil têm relação direta com o risco de atraso de pagamento?
+2. **Idade vs. Risco:** O fator idade tem relação direta com o risco de atraso de pagamento?
 
 ---
 
@@ -33,11 +33,10 @@ O conjunto é composto por duas tabelas principais cruzadas pelo identificador d
 - **Linguagem:** Python 3
 - **Manipulação de Dados:** Pandas, NumPy
 - **Visualização:** Matplotlib, Seaborn
-- **Versionamento:** Git e GitHub
+- **Versionamento:** Git, Sourtree GitHub
 
 ---
 
 ## Integrantes
 - Eduardo Roquette
 - Fernando Araújo
-- Giselle
